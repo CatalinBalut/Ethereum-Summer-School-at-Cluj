@@ -10,7 +10,7 @@ import "./tasks/lock";
 // Run 'npx hardhat vars setup' to see the list of variables that need to be set
 
 const mnemonic: string = vars.get("MNEMONIC");
-const infuraApiKey: string = vars.get("INFURA_API_KEY");
+const infuraApiKey: string = "a"
 
 const chainIds = {
   "arbitrum-mainnet": 42161,

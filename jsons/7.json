@@ -1,0 +1,23 @@
+{
+  "name": "Ethereum Summer School at Cluj",
+  "description": "An educational program focusing on blockchain technology, organized by Comets of Web3 in collaboration with EthCluj, UTCN, Ethereum Foundation, Polygon Labs, and Civic Technologies. The program took place from July 22, 2024, to July 30, 2024.",
+  "image": "https://green-used-kangaroo-337.mypinata.cloud/ipfs/QmQ2yWUbSMPp5mHrHZMULLtq2e2Bgro5xyysrJkW5MyUCd/7.jpg",
+  "attributes": [
+    {
+      "trait_type": "Event Name",
+      "value": "Ethereum Summer School at Cluj"
+    },
+    {
+      "trait_type": "Period",
+      "value": "22.07.2024-30.07.2024"
+    },
+    {
+      "trait_type": "Partners",
+      "value": "EthCluj, UTCN, Ethereum Foundation, Polygon Labs, Civic Technologies"
+    },
+    {
+      "trait_type": "Organizer",
+      "value": "Comets of Web3"
+    }
+  ]
+}
